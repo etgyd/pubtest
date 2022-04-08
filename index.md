@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+我是中文来的
 
 You can use the [editor on GitHub](https://github.com/etgyd/pubtest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
